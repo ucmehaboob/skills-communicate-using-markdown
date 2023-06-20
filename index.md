@@ -11,3 +11,5 @@
 ###### This is an `<h6>` header, which is the smallest
 
 Added Markdown  headers
+
+![Image of Yaktocat....](https://octodex.github.com/images/yaktocat2.png)
